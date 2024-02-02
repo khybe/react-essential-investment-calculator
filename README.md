@@ -1,6 +1,6 @@
 # Investment Calculator
 
-This project is a simple tutorial practice project for practicing React Essentials. It is part of an online course on Udemy, instructed by Maximilian Schwarzmüller.
+This project serves as a tutorial practice for mastering React Essentials, specifically focused on building an Investment Calculator. It provides a hands-on approach to applying core concepts in a real-world scenario.
 
 ## Features
 
@@ -35,9 +35,11 @@ The `userInput` state is lifted to the App component, allowing it to be shared b
 
 ## Credits
 
-- Instructor: Maximilian Schwarzmüller
-- Online Course: React Essentials on Udemy
+- **Instructor:** Maximilian Schwarzmüller
+- **Course:** [React - The Complete Guide 2024 (incl. React Router & Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+**Happy coding!**
